@@ -1,0 +1,60 @@
+body {
+	text-align: center;
+	background-image: url(../images/wew.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+.profile {
+	width: 100px;
+	height: 100px;
+	background: white;
+	border: 3px solid black;
+	background-size: cover;
+	background-image: url(../images/weew.jpg);
+	background-repeat: no-repeat;
+}
+
+#main-menu {
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: repeat(4 1fr);
+	list-style: none;
+}
+
+#kikiw {
+	padding: 25px;
+	margin: 25px;
+	list-style: none;
+	border: 5px black double;
+	background: rgba(227, 228, 223, 0.4);
+	color: #000000;
+}
+
+#education {
+	padding: 25px;
+	margin: 25px;
+	list-style: none;
+	border: 5px black double;
+	background: rgba(227, 228, 223, 0.4);
+	color: #000000;
+}
+
+#kikikiw {
+	list-style: none;
+	padding: 25px;
+	margin: 25px;
+	border: 5px black double;
+	background: rgba(227, 228, 223, 0.4);
+	color: #000000;
+}
+
+#wewewew {
+	list-style: none;
+	padding: 25px;
+	margin: 25px;
+	border: 5px black double;
+	background: rgba(227, 228, 223, 0.4);
+	color: #000000;
+}
